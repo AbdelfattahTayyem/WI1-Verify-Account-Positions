@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="nTkCP--c9U6oEjX-UaPEmA" Reference="likAZhRVAk-jcGfLZ8fOiQ/nj027ZbwvEeVMwg6JvzTaQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="acme-test.uipath.com/work-items" CVScreenId="912c59d4-b7e1-4113-abbd-d10a52859dcb" DesignTimeRectangle="294, 71, 1931, 42" DesignTimeScaleFactor="1.5" ElementType="InputBox" FullSelectorArgument="[string.Format(&quot;&lt;ctrl name='ACME System 1 - Work Items - Microsoft Edge' role='pane' /&gt;&lt;ctrl name='App bar' role='tool bar' /&gt;&lt;ctrl role='grouping' idx='1' /&gt;&lt;ctrl name='Address and search bar' role='editable text' text='https://acme-test.uipath.com/work-items/{0}' /&gt;&quot;, in_ArrWIID)]" FuzzyAccuracy="0.9" FuzzySelectorArgument="[string.Format(&quot;&lt;ctrl name='ACME System 1 - Work Items - Microsoft Edge' role='pane' /&gt;&lt;ctrl name='App bar' role='tool bar' /&gt;&lt;ctrl role='grouping' /&gt;&lt;ctrl name='Address and search bar' role='editable text' text='https://acme-test.uipath.com/work-items/{0}' automationid='' /&gt;&quot;, in_ArrWIID)]" Guid="9f8ccb3c-8d89-47d0-a442-b0e2a016e554" ScopeSelectorArgument="&lt;wnd app='msedge.exe' cls='Chrome_WidgetWin_1' title='ACME System 1 - Work Items - Profile 1 - Microsoft​ Edge' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target DesignTimeRectangle="236, 71, 60, 42" ElementType="Button" FullSelectorArgument="&lt;ctrl name='ACME System 1 - Work Items - Microsoft Edge' role='pane' /&gt;&lt;ctrl name='App bar' role='tool bar' /&gt;&lt;ctrl name='View site information' role='menu button' /&gt;" FuzzyAccuracy="0.9" FuzzySelectorArgument="&lt;ctrl name='ACME System 1 - Work Items - Microsoft Edge' role='pane' /&gt;&lt;ctrl name='App bar' role='tool bar' /&gt;&lt;ctrl name='View site information' role='menu button' automationid='' /&gt;" Guid="96dd7cf9-463f-4997-9c34-4633dc823090" SearchSteps="Selector, FuzzySelector" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="d5149cf467f81195d46d872a5d62c266.png" xmlns="">0up2lPBc18ECCJFCpf8Q0qw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">None</x:String>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="in_ArrWIID" />
+    </scg:List>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

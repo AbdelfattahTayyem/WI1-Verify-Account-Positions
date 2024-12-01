@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="GfuQiIDzDkKOWB13jZBx8w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" CVScreenId="69317e1e-9f17-4a33-a638-e383d4e388b2" DesignTimeRectangle="44, 247, 1033, 30" DesignTimeScaleFactor="1.5" ElementType="InputBox" FullSelectorArgument="&lt;wnd ctrlname='groupBox1' /&gt;&lt;wnd ctrlname='textBox1' /&gt;&lt;ctrl role='editable text' /&gt;" FuzzyAccuracy="0.9" FuzzySelectorArgument="&lt;wnd ctrlname='groupBox1' /&gt;&lt;wnd ctrlname='textBox1' /&gt;&lt;ctrl role='editable text' automationid='' /&gt;" Guid="4bf27c66-f237-457c-a247-84d16ffcd0f1" IsResponsive="True" ScopeSelectorArgument="&lt;wnd app='acme-system3.exe' ctrlname='SearchingClient' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="69317e1e-9f17-4a33-a638-e383d4e388b2" CvTextArea="41, 214, 109, 18" CvTextArgument="Search Form" CvType="Text" DesignTimeRectangle="40, 214, 110, 19" ElementType="Text" Guid="744f3226-34a1-4482-941a-e0b5f3c9527c" SearchSteps="CV" TargetType="ComputerVisionBased" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="26619670babe6d204c7a63a1eda6397d.png" xmlns="">0v6s33bf0rkeMby-MreAI8g</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

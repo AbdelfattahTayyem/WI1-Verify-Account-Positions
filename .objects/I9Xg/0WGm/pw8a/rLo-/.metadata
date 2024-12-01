@@ -1,0 +1,13 @@
+﻿{
+  "Name": "ACME System 3",
+  "Type": "Element",
+  "Id": "rLo-v0Vup0aNF-84H2E1dA",
+  "Reference": "likAZhRVAk-jcGfLZ8fOiQ/rLo-v0Vup0aNF-84H2E1dA",
+  "ParentRef": "likAZhRVAk-jcGfLZ8fOiQ/pw8aPmVQAEqGAVkalQx-Jg",
+  "Created": "2024-11-16T07:00:48.986576Z",
+  "Updated": "2024-11-16T07:00:48.986576Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

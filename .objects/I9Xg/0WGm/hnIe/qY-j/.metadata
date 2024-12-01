@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Search Form",
+  "Type": "Element",
+  "TaxonomyType": "Input",
+  "Id": "qY-j5ZKmNkKTmsgW1aTGHg",
+  "Reference": "likAZhRVAk-jcGfLZ8fOiQ/qY-j5ZKmNkKTmsgW1aTGHg",
+  "ParentRef": "likAZhRVAk-jcGfLZ8fOiQ/hnIe02FOD0yRWSu4c6N6tg",
+  "Created": "2024-11-16T07:21:37.1445258Z",
+  "Updated": "2024-11-16T07:21:37.1445258Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.6.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
